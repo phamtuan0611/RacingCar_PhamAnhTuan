@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17f61520c9b8c5548bbb08f8687bb22b, type: 3}
+  m_Name: CarSource
+  m_EditorClassIdentifier: 
+  listCar:
+  - Id: 0
+    costCar: 1000
+    Car: {fileID: 919132149155446097, guid: 26461d0410bba444198ba080ff4d3a27, type: 3}
+    colorRank: 0
+    nameCar: car0
+  - Id: 1
+    costCar: 1300
+    Car: {fileID: 919132149155446097, guid: f287275bb5c694e36ac16f7a0ebe39fb, type: 3}
+    colorRank: 3
+    nameCar: car1
+  - Id: 2
+    costCar: 1500
+    Car: {fileID: 919132149155446097, guid: 7f5ab9489b40344dea62f0300216be96, type: 3}
+    colorRank: 2
+    nameCar: car2
+  - Id: 3
+    costCar: 2000
+    Car: {fileID: 919132149155446097, guid: 80f647b40ef23478f94ffe9efc958ae0, type: 3}
+    colorRank: 1
+    nameCar: car4
+  - Id: 4
+    costCar: 1900
+    Car: {fileID: 919132149155446097, guid: 6c402a7c900034ca4a91fd9635c96a40, type: 3}
+    colorRank: 0
+    nameCar: car5
+  - Id: 5
+    costCar: 900
+    Car: {fileID: 919132149155446097, guid: 89671f6e919d146ef9c715f4c8f1011b, type: 3}
+    colorRank: 2
+    nameCar: car6
+  - Id: 6
+    costCar: 2300
+    Car: {fileID: 919132149155446097, guid: 911e10445b81b46138e588e7e67955d7, type: 3}
+    colorRank: 3
+    nameCar: car6
+  - Id: 7
+    costCar: 2200
+    Car: {fileID: 919132149155446097, guid: b8b4788b3682048b6ad163d3bf422dc4, type: 3}
+    colorRank: 2
+    nameCar: car8
+  - Id: 8
+    costCar: 1400
+    Car: {fileID: 919132149155446097, guid: b8d0864459af847079bb13c6eefbd197, type: 3}
+    colorRank: 1
+    nameCar: car9
+  - Id: 9
+    costCar: 2500
+    Car: {fileID: 919132149155446097, guid: 4632b907f7be04140bc85fc794057d1d, type: 3}
+    colorRank: 0
+    nameCar: car10
+  listRank:
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 0.33505535, g: 1, b: 0, a: 1}
+  - {r: 0, g: 0.13518643, b: 1, a: 1}
+  - {r: 1, g: 0, b: 0.7699652, a: 1}

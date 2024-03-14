@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6b49fb9f58b6334bb3d35e1ecb9d11a, type: 3}
+  m_Name: CanvasPrefTable
+  m_EditorClassIdentifier: 
+  Serializers:
+  - key: HomeMenu
+    settingUI:
+      uiType: 0
+      baseUI: {fileID: 1266392796578441706, guid: 26701aa162056c74d947115dd4df5e9c, type: 3}
+  - key: AdRemovePopup
+    settingUI:
+      uiType: 1
+      baseUI: {fileID: 8403390667810472149, guid: bfd9e5fd72a0e7b4a8b93f86f1cbdb59, type: 3}
+  - key: Setting
+    settingUI:
+      uiType: 1
+      baseUI: {fileID: 1123167951601892174, guid: 3c1eb7817648cc04ca60fe2363cd2f63, type: 3}
+  - key: Shop
+    settingUI:
+      uiType: 1
+      baseUI: {fileID: 5296153586456671459, guid: d5f1c579b5f09784884ec05e8a7c83ce, type: 3}
+  - key: RankingMenu
+    settingUI:
+      uiType: 0
+      baseUI: {fileID: 1092954533454584406, guid: d0cacf4a577dfd4408acaf41ef1a8594, type: 3}
+  - key: SpinMenu
+    settingUI:
+      uiType: 0
+      baseUI: {fileID: 7210506688035448632, guid: a0c6398116d66004f8999db3cda9354c, type: 3}
+  - key: Shoppingpopup
+    settingUI:
+      uiType: 1
+      baseUI: {fileID: 3228841046449306147, guid: 35e0098820aaee34ca2e8e2fec849d19, type: 3}
+  - key: Winpopup
+    settingUI:
+      uiType: 1
+      baseUI: {fileID: 3118001740216803747, guid: 19134598da61cb84b98deba3ffa470ff, type: 3}
+  - key: Losepopup
+    settingUI:
+      uiType: 1
+      baseUI: {fileID: 3118001740216803747, guid: da7bbacac18e3e14db27d6c333b6d5ae, type: 3}
